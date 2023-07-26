@@ -1,0 +1,17 @@
+.container{
+	display:flex;
+	justify-content:space-between;
+	margin:0 auto;
+	width:85%;
+	background-color:black;
+	color:white;
+}
+.container h1{
+	background-color:gray;
+}
+.nav1{
+	background-color:#ff7766;
+}
+.header1{
+	background-color:magenta;
+}

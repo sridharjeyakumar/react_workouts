@@ -1,0 +1,12 @@
+h1{
+	
+	background-color:black;
+	color:white;
+	border-style:dotted;
+	border-color:red;
+	font-family:cursive;
+}
+body{
+	text-align:center;
+	background-color:gray;
+}

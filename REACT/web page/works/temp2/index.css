@@ -1,0 +1,122 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	font-family:sans-seref;
+	
+}
+
+.container{
+	
+	display:flex;
+	justify-content:space-between;
+	align-items:center;
+	padding-bottom:10px;
+	padding-top:10px;
+	
+}
+.container2{
+	position:fixed;
+	top:0;
+	width:100%;
+}
+.container ul li{
+	display:inline-block;
+	margin-left:20px;
+	
+}
+.container ul li a{
+	text-decoration:none;
+}
+
+.rabit {
+	text-decoration:none;
+	background-color:orange;
+	border-radius:20px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	color:white;
+	padding:10px;
+	
+	
+}
+.rabit:hover{
+	background-color:black;
+
+}
+.bee{
+	background-image:url("hero-bg.jpg");
+	padding-top:400px;
+	padding-bottom:400px;
+	
+}
+.container1{
+	
+	color:white;
+	font-size:25px;
+	width:70%;
+	margin:0 auto;
+	
+}
+.container3{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+input {
+	width:100%;
+	padding:20px;
+	font-size:20px;
+	border-radius:20px;
+	border:none;
+}
+
+.anime{
+	width:40%;
+	position:relative;
+}
+.anime a{
+	position:absolute;
+	margin-left:400px;
+	text-decoration:none;
+   top:50%;
+   transform:translate(0,-50%);
+   font-size:17px;
+   background-color:red;
+   border-radius:10px;
+   padding:9px;
+   color:white;
+}
+.bee1{
+	display:flex;
+	
+}
+.container4{
+	width:16.66%;
+	padding:70px;
+}
+.type1{
+	width:100%;
+}
+
+.bee1 .container4 img:hover{
+	filter:none;
+	opacity:1;
+	
+}
+.bee1 .container4 img {
+  transition: 0.3s;
+  opacity: 0.5;
+  filter: grayscale(100);
+}
+.container5{
+	width:70%;
+	margin:0 auto;
+	
+}
+.type2 h3{
+	font-size:16px;
+}
+
+
